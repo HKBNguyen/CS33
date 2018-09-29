@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\henry nguyen\source\repos\project4\project4\MyHash.h(31): warning C4244: 'argument': conversion from 'MyHash<int,std::string>::String' to 'const MyHash<int,std::string>::maxloadfactor', possible loss of data
+  c:\users\henry nguyen\source\repos\project4\project4\MyHash.h(28): note: while compiling class template member function 'MyHash<int,std::string>::MyHash(MyHash<int,std::string>::String)'
+  Source.cpp(129): note: see reference to function template instantiation 'MyHash<int,std::string>::MyHash(MyHash<int,std::string>::String)' being compiled
+  Source.cpp(129): note: see reference to class template instantiation 'MyHash<int,std::string>' being compiled
+c:\users\henry nguyen\source\repos\project4\project4\MyHash.h(31): warning C4244: 'argument': conversion from 'double' to 'const MyHash<int,std::string>::maxloadfactor', possible loss of data
+  Generating code
+  1 of 1167 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  project4.vcxproj -> C:\Users\Henry Nguyen\source\repos\project4\Release\project4.exe

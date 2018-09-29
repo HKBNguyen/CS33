@@ -1,0 +1,2 @@
+tried to make new inheritance classes; couldn't get things to work
+will try to fix later

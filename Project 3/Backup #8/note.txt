@@ -1,0 +1,4 @@
+added Turnip class
+allowed Smallgon to now shoot Turnip when nearby NachenBlaster (#5 page 34)
+started writing derived class Ship to replace NachenBlaster and Alien ships
+maybe derived class for all projectiles

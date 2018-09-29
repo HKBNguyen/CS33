@@ -1,0 +1,15 @@
+Updates
+=======
+fixed error in Smallgon's doSomething() where it was shooting turnings with getY() + 14
+created Alien class
+	-moved everything from Smallgon into Alien class
+	-no need for doSomething() functions since the Alien doSomething() accounts for everything
+created EXTRA_LIFE_GOODIE 
+created incHP() function to increase hp of the Actor
+
+Need to Do
+=======
+Finish Snagglegon
+create rest of goodies
+Move all goodies into Goodie class
+Move all projectiles into Projectile class

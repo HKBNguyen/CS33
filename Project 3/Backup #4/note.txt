@@ -1,0 +1,1 @@
+Finished part #1 of spec; continuous moving stars and movement allowed

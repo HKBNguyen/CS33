@@ -1,0 +1,4 @@
+added Smallgon's correct movement/ flight plan
+	-need to add #5 on page 34
+added newShip algorithim
+	-need to test this

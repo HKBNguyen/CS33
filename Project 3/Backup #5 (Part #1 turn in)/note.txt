@@ -1,0 +1,4 @@
+change from vector to list due to complications of iterators 
+fixed star size (int -> double static casting)
+fixed stars appearing too fast (changed order of move() function)
+fixed all dangling pointers in the cleanup() function

@@ -1,0 +1,10 @@
+Updates
+=======
+Had to rewrite entire collision/class structure to incorporate more inheritance since previous version didn't follow proper OOP tips
+currently, collision between projectiles and alien ships work.
+
+Need to do
+=======
+collison alien ship with NachenBlaster
+collision NachenBlaster with turnip/torpedo
+goodie collision

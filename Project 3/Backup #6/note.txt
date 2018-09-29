@@ -1,0 +1,5 @@
+fixed NachenBlaster list to an actual pointer, as per spec
+moved Nachen ->doSomething() to outside of the while loop in move() as this refilled Cabbage too quickly
+added Cabbage correctly
+added Torpedo correctly
+added sound for both projectiles

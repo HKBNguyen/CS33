@@ -1,0 +1,14 @@
+Updates
+=======
+finished StudentWorld collison functions and collison works so far
+created changeHP algorithim
+ONLY allowed projectiles to check if collideAllPossible before any type of movement; for some reason, allowing it to check after causes problems
+=======
+
+Need to Do
+=======
+Implement at least one goodie
+Create an Alien subclass to compass the rest of the Alien ships
+
+ALMOST DONE!!!
+
